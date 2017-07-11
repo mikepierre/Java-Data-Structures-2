@@ -1,6 +1,4 @@
-package cs;
-
-public class Stack {
+public class stack {
 	
 	int top = -1;
 	int max = 10;
