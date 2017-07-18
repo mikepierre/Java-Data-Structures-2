@@ -1,11 +1,10 @@
-public class reverseString {
+public class ReverseString {
 
 	public static void main(String[] args) {
 		
 		String s = "The Sky is Blue A B C";
 		
 		System.out.println(reverse(s));
-	
 	}
 	
 	public static String reverse(String str){
