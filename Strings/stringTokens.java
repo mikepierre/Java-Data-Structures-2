@@ -1,4 +1,4 @@
-public class regex {
+public class StringTokens {
 
 	public static void main(String[] args) {
 
