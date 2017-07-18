@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class subStringComparison {
+public class SubStringComparison {
 
 	public static void main(String[] args) {
 		
